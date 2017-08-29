@@ -1,0 +1,30 @@
+POINT --  #1
+**************************************************
+==========================================================
+in body or in controller  we are giving   ng controller
+
+like
+
+<ng-yourowncontrollername>
+
+
+and when registering the module with controller we sholud givge same controller  name 
+
+
+like youeapp.controller("controller name that is same as in ng-controller",controller name)
+
+
+
+in the code the both names   name1: which is in the ng-controller in body of html  body tag and 
+
+ng-controller name  in  app.controller("ng-controller",yourcontroller)  are same
+**************************************************
+==========================================================
+POINT ---  #2
+***********************************************
+===============================================
+
+
+
+**********************************************
+==============================================
