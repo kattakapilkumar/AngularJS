@@ -1,0 +1,1 @@
+1) AngularJS is javascript framework to web applications

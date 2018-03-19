@@ -1,0 +1,19 @@
+1) Depemdency Injection 
+
+2) Two way data binding
+
+Model adn View
+
+
+
+
+
+3) Testing 
+
+unit testing
+
+end to end controller 
+
+4) Model view controller 
+
+5)Directives , filter etc.....
