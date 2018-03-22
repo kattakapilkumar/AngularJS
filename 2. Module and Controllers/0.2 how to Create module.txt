@@ -1,0 +1,4 @@
+Use the angular objects's modiule() methhod to create a module
+
+var kapil_module_myapp = angular.module("kapil_module",[]);
+
