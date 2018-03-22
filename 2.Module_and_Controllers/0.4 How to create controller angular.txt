@@ -1,0 +1,4 @@
+var kapil_controler = function($scope){
+
+$scope.message = "AngularJS";
+}

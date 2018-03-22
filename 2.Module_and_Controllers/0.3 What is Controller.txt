@@ -1,0 +1,1 @@
+In angular a controller is a javascript function. The job of the controller is to build a modle for the view to display.
