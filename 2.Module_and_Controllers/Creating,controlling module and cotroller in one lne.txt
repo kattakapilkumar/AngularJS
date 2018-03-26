@@ -1,0 +1,15 @@
+method chaining
+
+var kapil_module_var = angular
+			.module("kapil_module",[])
+			.controller("kapil_controller",function($scope)
+{
+    var employee1_k =
+    {
+         firstName : "kapil",
+         lastName  : "kumar",
+         gender    : "male"
+    };
+   $scope.scope_employee = employee1_k;
+});
+
